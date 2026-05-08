@@ -1,0 +1,2 @@
+math.floor() --> rounds the number
+math.random() --> generates a number betwee 0 and 1 , excluding 1.
