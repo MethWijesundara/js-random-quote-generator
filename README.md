@@ -1,4 +1,4 @@
-# Random Quote Generator 🎲
+# ✨ Random Quote Generator ✨
 
 A simple web app that generates random inspirational quotes with a click of a button. 
 
